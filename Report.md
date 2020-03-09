@@ -1,8 +1,8 @@
-Name:
+Name: Zahid Hossain
 
-EID:
+EID: zh4757
 
-Team Number:
+Team Number: 8
 
 ## Questions
 
@@ -40,4 +40,4 @@ Team Number:
 
 9. Screenshot of your Blynk App:
 
-    ![your image here->](img/placeholder.png)
+    ![your image here->](img/Screenshot_20200309-004127.png)
